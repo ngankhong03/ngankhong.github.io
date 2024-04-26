@@ -19,6 +19,6 @@ Here you'll find a range of projects I've worked on in my spare time. Each repos
 
 I'm always open to connecting with fellow developers and tech enthusiasts. If you want to chat about technology, projects, or anything else, don't hesitate to reach out!
 
-- **LinkedIn:** [My LinkedIn](https://linkedin.com/in/ngan-khong)
+- [LinkedIn](https://linkedin.com/in/ngan-khong)
 
 Thank you for visiting my GitHub profile!
