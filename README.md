@@ -5,11 +5,11 @@ Welcome to my GitHub! I'm a software engineer at Microsoft, where I work on exci
 ## About Me
 
 - 🏢 I'm currently working at **Microsoft**
-- 💻 I love using technology to solve problems and make life easier
+- 💻 Here is my portfolio : https://ngankhong03.github.io/
 - 🌱 I’m currently learning more about **Artificial Intelligence and Machine Learning**
 - 🤝 I’m looking to collaborate on **open source projects and innovative tech ideas**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ngan-khong)
-- ⚡ Fun fact: I'm a huge fan of animations
+- ⚡ Fun fact:
 
 ## My Projects
 
